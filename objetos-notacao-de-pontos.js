@@ -11,8 +11,8 @@ const cliente = {
 
 
 // Exibição dos valores das chaves do objeto cliente através da notação de pontos
-console.log(cliente.nome)
-console.log(cliente.dataNascimento)
-console.log(cliente.cpf)
-console.log(cliente.email)
-console.log(cliente.ativo)
+console.log(cliente.nome);
+console.log(cliente.dataNascimento);
+console.log(cliente.cpf);
+console.log(cliente.email);
+console.log(cliente.ativo);
