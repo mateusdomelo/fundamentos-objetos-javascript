@@ -11,7 +11,6 @@ const cliente = {
         cpf: "789.456.321-01"
     },
     saldo: 0,
-    
     depositar: function (valor) {
         return this.saldo += valor
     },
